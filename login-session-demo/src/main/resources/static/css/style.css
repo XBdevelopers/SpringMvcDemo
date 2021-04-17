@@ -1,0 +1,36 @@
+hr{
+	background-color: #1d2124;
+	border-top-width: 3px;
+}
+.bg-night {
+	background-color: #1d2124 !important
+}
+.navbar-brand{
+	font-family: "Brush Script MT";
+	font-size: 2rem;
+}
+.form-control {
+	color: #fff;
+	background-color: #343a40;
+	border: none;
+	border-bottom: 3px solid #007bff;
+	border-left: 3px solid #007bff;
+	transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+.form-control:focus {
+	color: #fff;
+	background-color: #1d2124;
+}
+.form-header{
+	line-height: inherit;
+	padding: none;
+	font-family: "URW Chancery L, cursive";
+	font-size: 150%;
+}
+.form-header:hover{
+	color: none;
+	text-decoration: none;
+}
+.jsp-form-control{
+	padding-bottom: 20px;
+}
